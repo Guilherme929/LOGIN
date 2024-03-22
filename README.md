@@ -54,9 +54,3 @@ while True: # um código de repetição de início.
         print("Já tem um usuário com esse nome!")
     break
 
-# Aba do Usuario.
-    
-while True:
-    Usuarios = input("Insira uma Aba: ")
-    
-    
