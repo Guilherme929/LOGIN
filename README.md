@@ -1,4 +1,4 @@
-# Sistema de login e cadastro, em outro dispositivo.
+# Sistema de login e cadastro.
 
 nome_cadastro = "DIGITE SEU NOME"
 email = "DIGITE_SEU_EMAIL@gmail.com"
