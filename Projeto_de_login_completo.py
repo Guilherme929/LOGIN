@@ -77,7 +77,7 @@ while True:
 
 """
 Para compilar esse programa, segue esse passo a passo:
-1. Abra o terminal do meu pc windows, Linux ou Mac...
+1. Abra o terminal do seu pc windows, Linux ou Mac...
 2. Digite: pip install pyinstaller
 3. No seu terminal msm vai até o diretorio onde se encontrar o seu script. Digite no seu terminal: pyinstaller --onefile nome_do_seu_script.py 
 Exemplo:
