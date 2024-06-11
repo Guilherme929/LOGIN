@@ -1,5 +1,5 @@
 import getpass # Privacidade na senha.
-import bcrypt
+import bcrypt # Mais privacidade, e preliminar ataques cibernéticas, ele vai criptografar as senhas no banco de dadoa
 import os 
 
 
